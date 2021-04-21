@@ -8,10 +8,10 @@ Open up the arduino with a new blank project, then after hooking up everything..
 ```c++
 #include <DigitShifter.h>
 
-// This Library built by: AbdulMuaz Aqeel (Software and Hardware Developer)
+// built by: AbdulMuaz Aqeel (Software and Hardware Developer)
 // For More Please Visit: 
-// https://github.com/abdulmuaz97
-// https://www.facebook.com/AbdulMuaz.Aqeel.SSP
+// https://github.com/devmuaz
+// https://www.facebook.com/devmuaz
 //
 //
 // DigitShifter is an Arduino C library that can easily control
