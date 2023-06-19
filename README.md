@@ -3,12 +3,12 @@ Arduino library that controls the (7-segment 1-digit) display with 'Shift Regist
 
 
 ## Usage
-Open up the arduino with a new blank project, then after hooking up everything.. copy/paste the following:
+Open up the Arduino with a new blank project, then after hooking up everything.. copy/paste the following:
 
 ```c++
 #include <DigitShifter.h>
 
-// built by: AbdulMuaz Aqeel (Software and Hardware Developer)
+// built by: AbdulMuaz Aqeel (Senior Software Engineer)
 // For More Please Visit: 
 // https://github.com/devmuaz
 // https://www.facebook.com/devmuaz
